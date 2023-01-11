@@ -5,12 +5,12 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: muyumak <muyumak@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/12/08 01:22:37 by muyumak           #+#    #+#             */
-/*   Updated: 2022/12/08 01:23:12 by muyumak          ###   ########.fr       */
+/*   Created: 2022/11/09 17:58:31 by muyumak           #+#    #+#             */
+/*   Updated: 2022/11/09 17:58:31 by muyumak          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 static int	lenofn(int n)
 {
